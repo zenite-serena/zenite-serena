@@ -12,11 +12,11 @@ Atuação na área da educação.
 
 ### Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40"/>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40"/>
+
 ### Contatos
 
-https://www.linkedin.com/in/zenite-serena/
+<a href="https://www.linkedin.com/in/zenite-serena/"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40"> </a>
 
 ### Competências
 
