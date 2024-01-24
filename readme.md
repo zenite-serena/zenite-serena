@@ -1,14 +1,19 @@
-# Olá, me chamo Zênite Serena
+# Olá, me chamo Zênite Serena 🏳️‍🌈
 
-Formada pela {reprograma} em Python para Análise de Dados, com intenção de realizar transição de carreira para a área de tecnologia.
+Apaixonada por educação, dados, diversidade e justiça social. Sou formada pela {reprograma} em Python para Análise de Dados, buscando realizar transição de carreira para a área de tecnologia.
+
+## Portfólio
+[Análise Exploratória: Desmatamento e Agropecuária no Brasil - Tratamento e Análise de Dados](https://github.com/zenite-serena/Desmatamento-e-Agropecuaria-no-Brasil)
+
+[Análise Exploratória: Emissão de CO2 a nível global - Tratamento e Análise de Dados](https://github.com/zenite-serena/Emissao-de-CO2)
 
 ## Formação e atuação
 
-{reprograma} - Python para Análise de Dados
+bootcamp: {reprograma} - Python: Fundamentos e Análise de Dados
 
-Unicamp - Letras
+licenciatura: Unicamp - Letras
 
-Atuação na área da educação.
+Extensa atuação profissional na área da educação.
 
 ### Tecnologias
 
@@ -21,5 +26,11 @@ Atuação na área da educação.
 ### Competências
 
 Análise de dados • Comunicação • Tradução • Ensino de inglês como segunda língua • Revisão de texto
+
+### Idiomas
+
+Inglês: Avançado (Fluente)
+
+Espanhol: Intermediário
 
 ![zenite-serena's Stats](https://github-readme-stats.vercel.app/api?username=zenite-serena&theme=dracula&show_icons=true&hide_border=true&count_private=true)
