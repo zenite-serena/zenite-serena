@@ -15,9 +15,17 @@ licenciatura: Unicamp - Letras
 
 Extensa atuação profissional na área da educação.
 
+### Algumas atividades desenvolvidas durante o curso de Análise de dados
+
+[Atividade Didática Semana 14 - Tratamento e Análise de Dados](https://github.com/zenite-serena/Atividade-Didatica-Analise-de-Dados)
+
+[Dashboard Tableau - Atividade Didática Semana 15 - Tratamento e Análise de Dados](https://public.tableau.com/app/profile/z.nite.serena/viz/exercicios_s15_zenite_vfinal/Painel2)
+
+[Atividade Didática Semana 10 - Tratamento de Dados](https://github.com/zenite-serena/Atividade-Didatica-Banco-de-Dados)
+
 ### Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="40"/>
 
 ### Contatos
 
